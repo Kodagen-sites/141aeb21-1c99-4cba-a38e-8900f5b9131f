@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.env*.local
+*.log
+raw/
+public/frames/
+public/frames-source/
+.DS_Store

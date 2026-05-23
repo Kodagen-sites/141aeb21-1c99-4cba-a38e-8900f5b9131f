@@ -1,0 +1,17 @@
+{
+  "images": {
+    "section-about-hero": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/141aeb21-1c99-4cba-a38e-8900f5b9131f/images/section-about-hero.png",
+    "section-contact-hero": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/141aeb21-1c99-4cba-a38e-8900f5b9131f/images/section-contact-hero.png",
+    "section-cta": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/141aeb21-1c99-4cba-a38e-8900f5b9131f/images/section-cta.png",
+    "section-services-hero": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/141aeb21-1c99-4cba-a38e-8900f5b9131f/images/section-services-hero.png",
+    "section-showcase-2": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/141aeb21-1c99-4cba-a38e-8900f5b9131f/images/section-showcase-2.png",
+    "section-showcase-3": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/141aeb21-1c99-4cba-a38e-8900f5b9131f/images/section-showcase-3.png",
+    "section-showcase-4": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/141aeb21-1c99-4cba-a38e-8900f5b9131f/images/section-showcase-4.png",
+    "scene-1-end": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/141aeb21-1c99-4cba-a38e-8900f5b9131f/images/scene-1-end.png",
+    "section-founder": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/141aeb21-1c99-4cba-a38e-8900f5b9131f/images/section-founder.png",
+    "section-showcase-1": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/141aeb21-1c99-4cba-a38e-8900f5b9131f/images/section-showcase-1.png",
+    "service-vintage": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/141aeb21-1c99-4cba-a38e-8900f5b9131f/images/service-vintage.png",
+    "scene-1-start": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/141aeb21-1c99-4cba-a38e-8900f5b9131f/images/scene-1-start.png"
+  },
+  "videos": {}
+}
